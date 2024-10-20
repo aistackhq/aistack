@@ -1,0 +1,13 @@
+.vscode
+crewai
+.cache
+__pycache__
+test/
+dist/
+.env
+.env.local
+assets/*
+.idea
+.DS_Store
+.pytest_cache
+chroma.sqlite3
